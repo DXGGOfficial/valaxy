@@ -6,7 +6,7 @@ export default defineSiteConfig({
   },
 
   lang: 'zh-CN',
-  title: 'Valaxy Theme Yun',
+  title: '无名小站',
   timezone: 'Asia/Shanghai',
   url: 'https://yun.valaxy.site/',
   author: {
