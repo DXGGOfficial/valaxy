@@ -55,7 +55,7 @@ export default defineValaxyConfig<ThemeConfig>({
   themeConfig: {
     banner: {
       enable: true,
-      title: '云游君的小站',
+      title: '无名小站',
     },
   },
 
